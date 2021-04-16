@@ -1,5 +1,5 @@
 <h1 align="center">Welcome To My Student Profile</h1>
-<h3 align="center">Hi, I'm Igor Ramalho, Computer Science Student</h3>
+<h3 align="center">Hi, I'm Igor Ramalho, Computer Science Student 💻</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
