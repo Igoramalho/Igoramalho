@@ -1,11 +1,9 @@
-### 👋 Hi there  
-  
-
-Hi there! I'm Igor Ramalho, a Computer Science undergrad and software developer. I enjoy building creative solutions, from experimenting with AI media generation to exploring new tech stacks. Always eager to learn in public and tackle complex challenges.  
-  
+ 👋 Hi there 
+ ---
+<div align="left"> Hi there! I'm Igor Ramalho, a Computer Science undergrad and software developer. I enjoy building creative solutions, from experimenting with AI media generation to exploring new tech stacks. Always eager to learn in public and tackle complex challenges.
+</div>
 
 <br/>  
-
 
 ## Languages and Tools 
 <div align="center">  
